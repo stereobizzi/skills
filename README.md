@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Work in Progress - Mind Map</title>
+  Work in Progress - Mind Map</title>
   <style>
     /* Stile personalizzato per il tuo layout */
   </style>
