@@ -1,55 +1,17 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Work in Progress - Mind Map</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #f7f7f7;
-    }
-
-    h1 {
-      color: #333;
-      margin-top: 50px;
-    }
-
-    p {
-      color: #777;
-      font-size: 18px;
-      margin-bottom: 30px;
-    }
-
-    .container {
-      margin-top: 100px;
-    }
-
-    .image {
-      width: 300px;
-      height: 300px;
-      margin: 0 auto;
-      background-color: #eee;
-      border-radius: 50%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .image img {
-      width: 150px;
-    }
-
-    .message {
-      margin-top: 30px;
-    }
+    /* Stile personalizzato per il tuo layout */
   </style>
 </head>
 <body>
   <div class="container">
     <h1>Work in Progress</h1>
     <p>Il mio mind map è attualmente in fase di sviluppo.</p>
-    <div class="image">
-      <img src="mindmap-icon.png" alt="Mind Map Icon">
+    <div class="mindmap">
+      <!-- Codice di incorporamento del mind map di MindMeister -->
+      <iframe src="https://app.mural.co/t/home23679/m/home23679/1685517302843/c1a12f4a2e775f3211f849817fefd5c709337e16?sender=uacfeb14a0ff810fb6c122420" width="800" height="600" frameborder="0" allowfullscreen></iframe>
     </div>
     <p class="message">Tornerò presto con una versione completa del mio mind map!</p>
   </div>
