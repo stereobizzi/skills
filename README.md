@@ -1,9 +1,4 @@
 <html>
-<head>
-  Work in Progress - Mind Map</title>
-</head>
-<body>
-  <div class="container">
     <h1>Work in Progress</h1>
     <p>Il mio mind map è attualmente in fase di sviluppo.</p>
     <div class="mindmap">
