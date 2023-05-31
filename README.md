@@ -1,9 +1,6 @@
 <html>
 <head>
   Work in Progress - Mind Map</title>
-  <style>
-    /* Stile personalizzato per il tuo layout */
-  </style>
 </head>
 <body>
   <div class="container">
